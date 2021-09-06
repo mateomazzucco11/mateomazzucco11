@@ -58,11 +58,11 @@
 
 <p align="center">
 
-<a href="https://mateoportfolio.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://mateoportfolio.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/mateoportfolio.vercel.app-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/mateo-mazzucco/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mateo-mazzucco/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mateo%20Mazzucco-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="mailto:mateomazzucco4@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:mateomazzucco4@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mateomazzucco4@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
