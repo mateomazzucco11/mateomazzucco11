@@ -10,6 +10,8 @@
 
 - 🎓 &nbsp; Studying Bachelor of Computer Science, on track to finish the 5-year degree in 3 years
 
+- 🌱 &nbsp; Learning more about Frontend Developement and Backend Architectures.
+
 
 
 <h3>🛠 Tech Stack</h3>
