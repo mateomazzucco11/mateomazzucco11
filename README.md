@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Mateo</h2>
 
-<img align='right' src="https://media0.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif?cid=ecf05e47gk6hi445jerc00hoh98yznh1i01dfhgtpis6ehuv&rid=giphy.gif&ct=g" width="230" heigth="200">
+<img align='right' src="https://media0.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif?cid=ecf05e47gk6hi445jerc00hoh98yznh1i01dfhgtpis6ehuv&rid=giphy.gif&ct=g" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
