@@ -38,7 +38,7 @@
 
 <br/>
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<img src="https://media4.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif?cid=ecf05e47iz3q1ssypsjjqilu8g0psfyok32t9atrfod8nh1z&rid=giphy.gif&ct=g" width="350" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateomazzucco11&show_icons=true)
 
