@@ -6,7 +6,7 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
 - 🎓 &nbsp; Studying Bachelor of Computer Science, on track to finish the 5-year degree in 3 years
 
