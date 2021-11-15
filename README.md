@@ -18,7 +18,7 @@
 
 
 
-- 💻 &nbsp; Node.js | MySQL | Express
+- 💻 &nbsp; Node.js | MySQL | MongooDB | Express 
 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | ReactJS | Redux | JavaScript | SASS 
 
