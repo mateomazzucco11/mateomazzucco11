@@ -20,13 +20,13 @@
 
 - 💻 &nbsp; Node.js | MySQL | MongooDB | Express 
 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | ReactJS | Redux | JavaScript | SASS 
+- 🌐 &nbsp; HTML | CSS | ReactJS | Redux | JavaScript | SASS 
 
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Flutter | Swift | React Native
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Flutter | Swift | React Native | TypeScript
 
 <hr>
 
