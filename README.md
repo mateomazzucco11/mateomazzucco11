@@ -26,7 +26,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Flutter | Swift | React Native | TypeScript
+- 🔧 &nbsp; AWS | Docker🐳 | Mobx | Vue | React Native | TypeScript
 
 <hr>
 
