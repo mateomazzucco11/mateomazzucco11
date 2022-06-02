@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
-- 🎓 &nbsp; Studying Bachelor of Computer Science, on track to finish the 5-year degree in 3 years
+- 🎓 &nbsp; Studying Software Engineer
 
 - 🌱 &nbsp; Learning more about Frontend Developement and Backend Architectures.
 
