@@ -17,16 +17,25 @@
 <h3>🛠 Tech Stack</h3>
 
 
+- 🌐 &nbsp; JavaScript | TypeScript
 
-- 💻 &nbsp; Node.js | MySQL | MongooDB | Express 
+- 🌐 &nbsp; Node.js | Express | Fastify 
 
-- 🌐 &nbsp; HTML | CSS | ReactJS | Redux | JavaScript | SASS 
+- 🌐 &nbsp; React.js | React Native | Redux | Next.js
+
+- 🌐 &nbsp;  MySQL | MongooDB
+
+- 🌐 &nbsp;  AWS | GCP
+
+- 🌐 &nbsp;  Unit Test | React Testing Library | Jest
+
+- 🌐 &nbsp;  SCSS | CSS | Boostrap | Material UI | Tailwind | Chakra Ui
 
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Mobx | Vue | React Native | TypeScript
+- 🔧 &nbsp;  Docker🐳 | Vue
 
 <hr>
 
